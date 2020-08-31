@@ -1,6 +1,6 @@
 # Express-Template
 
-##Instructions
+## Instructions
 Currently, this template is missing a .babelrc file. Upon downloading the files, add a .babelrc file and add the following in to the file:
 
 ```javascript
